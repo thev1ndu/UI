@@ -36,3 +36,10 @@
 | Preline UI       | Accessible, comprehensive Tailwind UI kit                    | Tailwind CSS                                        | :contentReference[oaicite:34]{index=34} |
 | Kutty UI         | Tailwind plugin with reusable UI sections                    | Tailwind CSS                                        | :contentReference[oaicite:35]{index=35} |
 | Sailboat UI      | Modern Tailwind components for landing pages/dashboards      | Tailwind CSS                                        | :contentReference[oaicite:36]{index=36} |
+| Remotion                  | Render dynamic videos using React                              | React                                               | [remotion.dev](https://remotion.dev/) :contentReference[oaicite:1]{index=1} |
+| React Transition Group    | Manage enter/exit UI transitions                               | React                                               | [reactcommunity.org/react-transition-group](https://reactcommunity.org/react-transition-group/) :contentReference[oaicite:2]{index=2} |
+| React Move                | Animate data-driven UIs (charts, SVG)                         | React                                               |                                                              |
+| React Reveal              | Scroll-triggered revealing animations                          | React                                               |                                                              |
+| React Motion              | Legacy physics-based motion library                           | React                                               |                                                              |
+| react-anime               | React wrapper for Anime.js                                     | React, Anime.js                                     | :contentReference[oaicite:3]{index=3} |
+| React Awesome Reveal      | Easy onboarding reveal animations                              | React                                               | :contentReference[oaicite:4]{index=4} |

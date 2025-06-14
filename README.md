@@ -1,10 +1,10 @@
 | Library          | Purpose / Focus                                                | Tech Stack                                          | Link                                                        |
 |------------------|----------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------|
 | Aceternity UI    | Copy‑paste Tailwind + Framer Motion animated components        | React, Tailwind, Framer Motion                     | https://ui.aceternity.com |
-| React Bits       | Interactive, playful React components (Ballpit, Crosshair…)  | React, GSAP / React‑Spring / Framer Motion        | (as seen previously) :contentReference[oaicite:2]{index=2} |
-| Hover.dev        | Broad freemium animated UI kit (buttons, navbars, heroes…)   | React, Tailwind, Framer Motion, JS                | [hover.dev](https://hover.dev) :contentReference[oaicite:3]{index=3} |
-| DynaUI           | Developer-focused animated components (50+)                   | React, Tailwind, Framer Motion                    | [dynaui.design](https://www.dynaui.design/) :contentReference[oaicite:4]{index=4} |
-| Cult/UI          | Shadcn-compatible components (Dynamic Island, shaders…)       | React, Tailwind, Framer Motion                    | :contentReference[oaicite:5]{index=5} |
+| React Bits       | Interactive, playful React components (Ballpit, Crosshair…)  | React, GSAP / React‑Spring / Framer Motion        | https://reactbits.dev |
+| Hover.dev        | Broad freemium animated UI kit (buttons, navbars, heroes…)   | React, Tailwind, Framer Motion, JS                | https://hover.dev |
+| DynaUI           | Developer-focused animated components (50+)                   | React, Tailwind, Framer Motion                    | https://www.dynaui.design |
+| Cult/UI          | Shadcn-compatible components (Dynamic Island, shaders…)       | React, Tailwind, Framer Motion                    | https://www.cult-ui.com |
 | Eldora UI        | Templates + standalone motion‑rich UI components (25+)        | React, TS, Tailwind, Framer Motion                | :contentReference[oaicite:6]{index=6} |
 | Syntax UI        | UI primitives: tabs, toggles, emoji confetti, pricing tables  | React, Tailwind, Framer Motion                    | :contentReference[oaicite:7]{index=7} |
 | Animate UI       | Shadcn CLI distribution of animated primitives                | React, TS, Tailwind, Framer Motion                | [animate-ui.com](https://animate-ui.com/) :contentReference[oaicite:8]{index=8} |

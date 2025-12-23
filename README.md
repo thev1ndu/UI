@@ -60,5 +60,4 @@
 | RigidUI                | Complex, production-ready React UI components (dashboards, data, tools) | React, TypeScript, Tailwind CSS, shadcn/ui | https://www.rigidui.com/ |
 | 8bitcn                 | Retro 8-bit styled UI component library                          | React, Tailwind CSS, shadcn/ui (framework-agnostic)     | https://www.8bitcn.com/                                   |
 | EvilCharts             | Beautiful, animated & interactive chart components            | React, Next.js, Tailwind CSS, Recharts                 | https://evilcharts.com/                                  |
-| Cook (engage-dev)      | Bento-style portfolio & UI template built with modern UI libraries | Next.js, React, Tailwind CSS, shadcn/ui, Magic UI, Zod | https://cook.engage-dev.com/ |  [oai_citation:0‡GitHub](https://github.com/engageintellect/cook?utm_source=chatgpt.com)
 | Lina                   | Adaptive, refined scroll area component with micro-interactions    | React, Radix UI/Tailwind CSS                           | https://lina.sameer.sh/     |  [oai_citation:1‡Lina](https://lina.sameer.sh/)

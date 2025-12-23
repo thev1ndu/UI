@@ -58,3 +58,4 @@
 | SmoothUI               | Animated, production-ready React UI components & sections       | React, TypeScript, Tailwind CSS, Framer Motion        | https://smoothui.dev/                                    |
 | Motion Primitives       | Copy-paste animated “motion components” / primitives for modern UIs | React, Next.js, Tailwind CSS, Motion (Framer Motion) | https://motion-primitives.com/ |
 | RigidUI                | Complex, production-ready React UI components (dashboards, data, tools) | React, TypeScript, Tailwind CSS, shadcn/ui | https://www.rigidui.com/ |
+| 8bitcn                 | Retro 8-bit styled UI component library                          | React, Tailwind CSS, shadcn/ui (framework-agnostic)     | https://www.8bitcn.com/                                   |

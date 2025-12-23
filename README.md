@@ -1,63 +1,41 @@
-| Library               | Purpose / Focus                                                | Tech Stack                                          | Link                                                        |
-|------------------------|----------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------|
-| Aceternity UI          | Copy‑paste Tailwind + Framer Motion animated components        | React, Tailwind, Framer Motion                      | https://ui.aceternity.com                                   |
-| React Bits            | Interactive, playful React components (Ballpit, Crosshair…)    | React, GSAP / React‑Spring / Framer Motion         | https://reactbits.dev                                       |
-| Hover.dev             | Broad freemium animated UI kit (buttons, navbars, heroes…)     | React, Tailwind, Framer Motion, JS                 | https://hover.dev                                           |
-| DynaUI                | Developer-focused animated components (50+)                    | React, Tailwind, Framer Motion                     | https://www.dynaui.design                                   |
-| Cult/UI               | Shadcn-compatible components (Dynamic Island, shaders…)        | React, Tailwind, Framer Motion                     | https://www.cult-ui.com                                     |
-| Eldora UI             | Templates + standalone motion‑rich UI components (25+)         | React, TS, Tailwind, Framer Motion                 | https://www.eldoraui.site                                   |
-| Syntax UI             | UI primitives: tabs, toggles, emoji confetti, pricing tables   | React, Tailwind, Framer Motion                     | https://syntaxui.com                                        |
-| Animate UI            | Shadcn CLI distribution of animated primitives                 | React, TS, Tailwind, Framer Motion                 | https://animate-ui.com                                      |
-| Magic UI              | Large collection (20–150+) of expressive components            | React, TS, Tailwind, Framer Motion                 | https://magicui.design                                      |
-| UI‑Layout             | Interactive components: motion numbers, sliders, trails…       | React, Tailwind, Framer Motion, GSAP               | https://www.ui-layouts.com                                  |
-| Animata               | Border tail, mirror text, bento grids, and more (80+)          | React, Tailwind                                    | https://animata.design                                     |
-| Float UI              | Simple Tailwind-based UI kit for React/Vue/Svelte              | React, Vue, Svelte, Tailwind                       | https://floatui.com                                         |
-| Svelte Animation      | Animated UI components for Svelte apps                         | Svelte, Tailwind, Svelte Motion                    | https://animation-svelte.vercel.app                         |
-| LunarUI               | Premium animated Tailwind components for React/Vue             | React, Vue, Tailwind                               | https://lunarui.dev                                         |
-| InspiraUI             | Vue/Nuxt animated components (glow, lamp effect…)              | Vue, Tailwind, @vueuse/motion                      | https://inspira-ui.com                                      |
-| Cursify               | Animated cursor effects (bubbles, neon, snowflakes…)           | React, TS, Tailwind, Framer Motion                | https://cursify.vercel.app                                 |
-| React Cursorify       | Simple customizable cursor styles                              | React                                              | https://cursorify.github.io                                 |
-| React Spring          | Physics-based, fluid animations                                | React                                              | https://www.react-spring.dev                                |
-| Framer Motion         | Powerful, declarative animation library for React              | React                                              | https://motion.dev                                          |
-| GSAP / Anime.js       | High-performance, low-level JS animation engines               | JavaScript                                         | https://gsap.com / https://animejs.dev                      |
-| Velocity.js           | Fast, general-purpose HTML/SVG animation framework             | JavaScript                                         | https://velocityjs.org                                      |
-| DaisyUI               | Tailwind CSS plugin for styled components (no JS)              | Tailwind CSS                                       | https://daisyui.com                                         |
-| Headless UI           | Accessible, unstyled UI logic for menus/popovers/tabs          | React, Vue, JS                                     | https://headlessui.com                                      |
-| TailBlocks            | Ready-to-use Tailwind UI sections                              | Tailwind CSS                                       | https://tailblocks.cc                                       |
-| Meraki UI             | Beautiful Tailwind CSS components with RTL support             | Tailwind CSS                                       | https://merakiui.com                                        |
-| Flowbite              | Interactive Tailwind components with templates                 | React, Vue, Angular + Tailwind                    | https://flowbite-react.com                                  |
-| Mamba UI              | Sleek, ready-made Tailwind components                          | Tailwind CSS                                       | https://mambaui.com                                         |
-| Hyper UI              | Free Tailwind blocks for modern apps                           | Tailwind CSS                                       | https://hyperui.dev                                         |
-| TW Elements           | Tailwind + Material Design interactive components              | Tailwind CSS, Material Design                      | https://tw-elements.com                                     |
-| TW Components         | Community-driven Tailwind CSS UI kit                           | Tailwind CSS                                       | https://github.com/merakiui/tailwindcomponents              |
-| Material Tailwind     | Material Design-inspired Tailwind components                   | Tailwind CSS                                       | https://material-tailwind.com                               |
-| Kometa UI Kit         | Responsive Tailwind sections for React/HTML/Vue                | Tailwind CSS                                       | https://kitwind.io/products/kometa                         |
-| Ripple UI             | Lightweight collection of Tailwind components                  | Tailwind CSS                                       | https://rippleui.com                                        |
-| Preline UI            | Accessible, comprehensive Tailwind UI kit                      | Tailwind CSS                                       | https://preline.co                                          |
-| Kutty UI              | Tailwind plugin with reusable UI sections                      | Tailwind CSS                                       | https://kutty.netlify.app                                   |
-| Sailboat UI           | Modern Tailwind components for landing pages/dashboards        | Tailwind CSS                                       | https://sailboatui.com                                      |
-| Remotion              | Render dynamic videos using React                              | React                                              | https://remotion.dev                                        |
-| React Transition Group| Manage enter/exit UI transitions                               | React                                              | https://reactcommunity.org/react-transition-group           |
-| React Move            | Animate data-driven UIs (charts, SVG)                          | React                                              | https://github.com/react-tools/react-move                  |
-| React Reveal          | Scroll-triggered revealing animations                          | React                                              | https://www.react-reveal.com                                |
-| React Motion          | Legacy physics-based motion library                            | React                                              | https://github.com/chenglou/react-motion                   |
-| react-anime           | React wrapper for Anime.js                                     | React, Anime.js                                    | https://github.com/stf0/react-anime                        |
-| React Awesome Reveal  | Easy onboarding reveal animations                              | React                                              | https://react-awesome-reveal.morello.dev                   |
-| shadcn/ui          | Accessible component kit built with Tailwind & Radix UI         | React, Tailwind, Radix UI, Framer Motion           | https://ui.shadcn.com                                       |
-| React Hook Form    | Performant, flexible form validation & management               | React, TypeScript                                  | https://react-hook-form.com                                 |
-| Material UI (MUI)  | Full-featured Material Design React component library           | React, TypeScript, CSS-in-JS                        | https://mui.com                                             |
-| Chakra UI         | Accessible, style‑prop based React component system             | React, TypeScript, Emotion/Styled System            | https://chakra-ui.com                                       |
-| Ant Design         | Enterprise-level React component suite with rich layouts        | React, TypeScript, Less                             | https://ant.design                                          |
-| Base UI            | Unstyled primitives for building custom design systems          | React, TypeScript                                   | https://baseui.design                                       |
-| Next UI           | High‑performance, styled React components for modern tooling    | React, CSS-in-JS / Tailwind integration             | https://nextui.org                                          |
-| Prompt Kit             | Prebuilt, animated prompt & chat UI components (ChatGPT-style) | React, TypeScript, Tailwind, Framer Motion          | https://www.prompt-kit.com                             |
-| Efferd UI              | Ready-to-use shadcn/ui blocks (UI building blocks)           | React, Tailwind, shadcn/ui                             | https://efferd.com/                                      |
-| Solace UI              | Aesthetic, animated Next.js sections & templates              | Next.js, React, Tailwind CSS, Framer Motion, TypeScript | https://www.solaceui.com/                             |
-| Blocks.so              | Ready-to-use shadcn/ui UI blocks for React apps              | React, TypeScript, Tailwind CSS, shadcn/ui            | https://blocks.so/                                       |
-| Square UI              | Collection of beautifully crafted open-source layouts/UI pages | Next.js, React, Tailwind CSS, shadcn/ui              | https://square.lndev.me/                                  |
-| SmoothUI               | Animated, production-ready React UI components & sections       | React, TypeScript, Tailwind CSS, Framer Motion        | https://smoothui.dev/                                    |
-| Motion Primitives       | Copy-paste animated “motion components” / primitives for modern UIs | React, Next.js, Tailwind CSS, Motion (Framer Motion) | https://motion-primitives.com/ |
-| RigidUI                | Complex, production-ready React UI components (dashboards, data, tools) | React, TypeScript, Tailwind CSS, shadcn/ui | https://www.rigidui.com/ |
-| 8bitcn                 | Retro 8-bit styled UI component library                          | React, Tailwind CSS, shadcn/ui (framework-agnostic)     | https://www.8bitcn.com/                                   |
-| EvilCharts             | Beautiful, animated & interactive chart components            | React, Next.js, Tailwind CSS, Recharts                 | https://evilcharts.com/                                  |
-| Lina                   | Adaptive, refined scroll area component with micro-interactions    | React, Radix UI/Tailwind CSS                           | https://lina.sameer.sh/     |  [oai_citation:1‡Lina](https://lina.sameer.sh/)
+This repository is a **curated list of modern UI libraries, component kits, motion frameworks, and Tailwind-based design systems** for building beautiful, interactive web applications.
+
+| Library | Purpose | Tech Stack | Link |
+|--------|----------------|------------|------|
+| Aceternity UI | Copy-paste Tailwind + Framer Motion animated components | React, Tailwind, Framer Motion | https://ui.aceternity.com |
+| React Bits | Interactive, playful React components (Ballpit, Crosshair…) | React, GSAP / React Spring / Framer Motion | https://reactbits.dev |
+| Hover.dev | Broad freemium animated UI kit (buttons, navbars, heroes…) | React, Tailwind, Framer Motion, JS | https://hover.dev |
+| DynaUI | Developer-focused animated components (50+) | React, Tailwind, Framer Motion | https://www.dynaui.design |
+| Cult/UI | shadcn-compatible components (Dynamic Island, shaders…) | React, Tailwind, Framer Motion | https://www.cult-ui.com |
+| Eldora UI | Templates + standalone motion-rich UI components | React, TypeScript, Tailwind, Framer Motion | https://www.eldoraui.site |
+| Syntax UI | UI primitives: tabs, toggles, emoji confetti, pricing tables | React, Tailwind, Framer Motion | https://syntaxui.com |
+| Animate UI | shadcn CLI-distributed animated primitives | React, TypeScript, Tailwind, Framer Motion | https://animate-ui.com |
+| Magic UI | Large collection of expressive animated components | React, TypeScript, Tailwind, Framer Motion | https://magicui.design |
+| UI-Layout | Motion numbers, sliders, trails, interactive widgets | React, Tailwind, Framer Motion, GSAP | https://www.ui-layouts.com |
+| Animata | Bento grids, border tails, mirror text and effects | React, Tailwind | https://animata.design |
+| Float UI | Simple Tailwind UI kit for React / Vue / Svelte | React, Vue, Svelte, Tailwind | https://floatui.com |
+| Svelte Animation | Animated UI components for Svelte apps | Svelte, Tailwind, Svelte Motion | https://animation-svelte.vercel.app |
+| LunarUI | Premium animated Tailwind components | React, Vue, Tailwind | https://lunarui.dev |
+| InspiraUI | Vue/Nuxt animated glow & lamp-style components | Vue, Tailwind, @vueuse/motion | https://inspira-ui.com |
+| Cursify | Animated cursor effects (neon, bubbles, snowflakes) | React, TypeScript, Tailwind, Framer Motion | https://cursify.vercel.app |
+| React Cursorify | Simple customizable cursor styles | React | https://cursorify.github.io |
+| React Spring | Physics-based fluid animation engine | React | https://www.react-spring.dev |
+| Framer Motion | Declarative animation library for React | React | https://motion.dev |
+| GSAP / Anime.js | High-performance low-level animation engines | JavaScript | https://gsap.com / https://animejs.dev |
+| Velocity.js | Fast HTML/SVG animation framework | JavaScript | https://velocityjs.org |
+| DaisyUI | Tailwind CSS plugin for styled components | Tailwind CSS | https://daisyui.com |
+| Headless UI | Accessible, unstyled UI logic | React, Vue | https://headlessui.com |
+| TailBlocks | Ready-to-use Tailwind UI sections | Tailwind CSS | https://tailblocks.cc |
+| Meraki UI | Tailwind components with RTL support | Tailwind CSS | https://merakiui.com |
+| Flowbite | Interactive Tailwind components & templates | React, Vue, Angular, Tailwind | https://flowbite-react.com |
+| Mamba UI | Sleek ready-made Tailwind components | Tailwind CSS | https://mambaui.com |
+| Hyper UI | Free Tailwind blocks | Tailwind CSS | https://hyperui.dev |
+| TW Elements | Tailwind + Material Design components | Tailwind CSS | https://tw-elements.com |
+| shadcn/ui | Accessible, composable UI components | React, Tailwind, Radix UI | https://ui.shadcn.com |
+| Prompt Kit | Animated AI prompt & chat UI components | React, TypeScript, Tailwind, Framer Motion | https://www.prompt-kit.com |
+| Solace UI | Animated Next.js sections & templates | Next.js, React, Tailwind, Framer Motion | https://www.solaceui.com |
+| Motion Primitives | Copy-paste animated motion primitives | React, Next.js, Tailwind, Motion | https://motion-primitives.com |
+| RigidUI | Complex UI components for dashboards & tools | React, TypeScript, Tailwind, shadcn/ui | https://www.rigidui.com |
+| 8bitcn | Retro 8-bit styled UI components | React, Tailwind, shadcn/ui | https://www.8bitcn.com |
+| EvilCharts | Animated, interactive chart components | React, Next.js, Tailwind, Recharts | https://evilcharts.com |
+| Lina | Polished, adaptive ScrollArea with refined scrolling and micro-interactions | React, Tailwind, Radix UI | https://lina.sameer.sh |

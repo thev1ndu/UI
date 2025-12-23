@@ -54,3 +54,4 @@
 | Efferd UI              | Ready-to-use shadcn/ui blocks (UI building blocks)           | React, Tailwind, shadcn/ui                             | https://efferd.com/                                      |
 | Solace UI              | Aesthetic, animated Next.js sections & templates              | Next.js, React, Tailwind CSS, Framer Motion, TypeScript | https://www.solaceui.com/                             |
 | Blocks.so              | Ready-to-use shadcn/ui UI blocks for React apps              | React, TypeScript, Tailwind CSS, shadcn/ui            | https://blocks.so/                                       |
+| Square UI              | Collection of beautifully crafted open-source layouts/UI pages | Next.js, React, Tailwind CSS, shadcn/ui              | https://square.lndev.me/                                  |

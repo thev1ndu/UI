@@ -57,3 +57,4 @@
 | Square UI              | Collection of beautifully crafted open-source layouts/UI pages | Next.js, React, Tailwind CSS, shadcn/ui              | https://square.lndev.me/                                  |
 | SmoothUI               | Animated, production-ready React UI components & sections       | React, TypeScript, Tailwind CSS, Framer Motion        | https://smoothui.dev/                                    |
 | Motion Primitives       | Copy-paste animated “motion components” / primitives for modern UIs | React, Next.js, Tailwind CSS, Motion (Framer Motion) | https://motion-primitives.com/ |
+| RigidUI                | Complex, production-ready React UI components (dashboards, data, tools) | React, TypeScript, Tailwind CSS, shadcn/ui | https://www.rigidui.com/ |

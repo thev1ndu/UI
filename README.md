@@ -50,3 +50,4 @@
 | Ant Design         | Enterprise-level React component suite with rich layouts        | React, TypeScript, Less                             | https://ant.design                                          |
 | Base UI            | Unstyled primitives for building custom design systems          | React, TypeScript                                   | https://baseui.design                                       |
 | Next UI           | High‑performance, styled React components for modern tooling    | React, CSS-in-JS / Tailwind integration             | https://nextui.org                                          |
+| Prompt Kit             | Prebuilt, animated prompt & chat UI components (ChatGPT-style) | React, TypeScript, Tailwind, Framer Motion          | https://www.prompt-kit.com                             |

@@ -52,3 +52,4 @@
 | Next UI           | High‑performance, styled React components for modern tooling    | React, CSS-in-JS / Tailwind integration             | https://nextui.org                                          |
 | Prompt Kit             | Prebuilt, animated prompt & chat UI components (ChatGPT-style) | React, TypeScript, Tailwind, Framer Motion          | https://www.prompt-kit.com                             |
 | Efferd UI              | Ready-to-use shadcn/ui blocks (UI building blocks)           | React, Tailwind, shadcn/ui                             | https://efferd.com/                                      |
+| Solace UI              | Aesthetic, animated Next.js sections & templates              | Next.js, React, Tailwind CSS, Framer Motion, TypeScript | https://www.solaceui.com/                             |
